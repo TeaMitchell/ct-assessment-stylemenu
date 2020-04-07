@@ -52,7 +52,9 @@ dt {
     Add a CSS ruleset to accomplish the following:
     - Make a comma appear after the name of each menu item
 */
-
+dt::after{
+    content: ",";
+}
 
 
 
