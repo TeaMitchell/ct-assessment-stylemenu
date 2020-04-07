@@ -6,6 +6,7 @@
 */
 body{
     font-family: "Oswald";
+    font-size: 14 px;
 }
 
 nav {font-family: sans-serif; font-size: 10px;}
@@ -17,7 +18,11 @@ nav {font-family: sans-serif; font-size: 10px;}
         - set the font size to 46px 
         - use a lighter weight font
 */
-
+h1{
+    font-family: "Bungee inline";
+    font-size: 46px;
+    font-weight: lighter;
+}
 
 #menu {columns: 420px 2; column-gap: 60px;}
 section {margin-bottom: 20px; padding: 10px;}
